@@ -454,6 +454,7 @@ main{
 .plan-card--saving{
     font-size: 1.2rem;
     color: #757575;
+    min-height: 30px;
 }
 
 .plan-card--ca{
